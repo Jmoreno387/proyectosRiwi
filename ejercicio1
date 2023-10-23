@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: bisque;">
+    
+<center>
+<img src="./93642844-vector-del-icono-del-avatar-de-la-cuenta-de-usuario-muestra-plana-llenada-pictograma-sólido.jpg" alt="" width="500px">
+</center>
+<h2> user name </h2>
+<input type="text">
+
+<h2>password</h2>
+<input type="text">
+<center>
+    <button> login </button>
+</center>
+<br>
+<input type="checkbox" >
+<br>
+<button> cancel </button>
+<br>
+<h3> forrgot password </h3>
+<a href="./index.html" target="_blank"> password </a>
+
+</body>
+</html>
