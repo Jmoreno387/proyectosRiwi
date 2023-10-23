@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<div>
+    
+<center>
+<img src="./imagenes/retrato-hombre-joven-expresivo-vistiendo-traje-formal_273609-6942.avif" alt="" width="250px">
+</center>  
+
+<b>resumen profesional</b>
+<br>    
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis minima 
+<br> 
+temporibus harum assumenda voluptatem ducimus delectus natus quas iste consectetur 
+<br>
+repellat ullam recusandae dolorum, in at, vitae, totam architecto Lorem ipsum dolor 
+<br>
+sit amet consectetur adipisicing elit. Enim cum quae beatae ipsam quasi suscipit, 
+<br>
+
+<b>historial laboral</b> 
+<br>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sed
+<br>
+impedit obcaecati aperiam eum soluta similique totam vel labore saepe 
+<br>
+explicabo deserunt voluptatem minus. Dignissimos quos iste consequatur
+<br>
+ex sequi Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum 
+<br>
+doloremque facilis sunt. Corporis laudantium at sunt harum sit! Corrupti 
+<br>
+<b>formacion</b>
+<br>
+2017 graduacion universidad riwi
+ingeniero aero espacial 
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi exercitationem 
+<br>
+ipsam molestias ab animi, suscipit odit iusto, similique eveniet, sit pariatur 
+<br>
+incidunt dolorum sapiente qui. Repellendus delectus ex ea. Ullam!
+
+<b> informacion</b>
+<br>
+<img src="./imagenes/CELULAR.jpg"width="60">
+<h5>306445656</h5>
+</body>
+</html>
