@@ -4,27 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-<body style="background-color: bisque;">
+<body style="background-color: lightblue;">
     
-<center>
-<img src="./93642844-vector-del-icono-del-avatar-de-la-cuenta-de-usuario-muestra-plana-llenada-pictograma-sólido.jpg" alt="" width="500px">
-</center>
-<h2> user name </h2>
-<input type="text">
+    <center>
+        <br>
+        <br>
+        <i class="fa-solid fa-user-lock" style="font-size: 300px;"></i>
+        
+        <br><h2> user name </h2>
+        <input type="text">
 
-<h2>password</h2>
-<input type="text">
-<center>
-    <button> login </button>
-</center>
-<br>
-<input type="checkbox" >
-<br>
-<button> cancel </button>
-<br>
-<h3> forrgot password </h3>
-<a href="./index.html" target="_blank"> password </a>
+        <h2>password</h2>
+        <input type="text">
+        <br>
+        <br>
+        <input type="checkbox" >
 
-</body>
+        <br>
+        <br>
+        <input type='button' name='boton' value='   LOG IN' style='width:300px; height:35px;BORDER: rgb(15, 224, 190) 1px dashed; FONT-SIZE: 10pt; ;
+        BACKGROUND-COLOR: rgb(18, 167, 187)'>
+
+
+        <br>
+        <h3> forgot password </h3>
+        
+        <a href="./index.html" target="_blank"> password </a>
+    </center>
+    </body>
 </html>
